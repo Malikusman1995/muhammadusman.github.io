@@ -1,8 +1,8 @@
 {
-  "name": "raitalharehman",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://raitalharehman.github.io/raitalharehman",
+  "homepage": "https://muhammadusman.github.io/portfolio",
   "dependencies": {
     "emailjs-com": "^2.3.2",
     "extend": ">=3.0.2",
